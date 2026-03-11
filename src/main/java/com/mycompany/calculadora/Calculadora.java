@@ -17,5 +17,5 @@ public class Calculadora {
         // TODO code application logic here
         App.main(args);
     }
-    
+
 }
